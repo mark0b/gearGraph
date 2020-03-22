@@ -1,0 +1,3 @@
+create database of gear
+give user a way to populate a list of gear to show on the graph.
+Graph these attributes.

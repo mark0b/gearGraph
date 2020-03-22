@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+<div id="main">
+    <div class="buffer"></div>
+    <div class="graph">
+        <form action="/query" method="GET">
+            <h3>Filter by Brand:
+                <select name="selectBrand" id="brand" onchange='this.form.submit();'>
+                    <option>SELECT</option>
+                    {% for name in brands %}
+                        <option {% if name==session['brand'] %}selected="selected" {% endif %}>{{name}}</option>
+                    {% endfor %}
+                    <option>*ALL*</option>
+                </select>
+            </h3>
+        </form>
+        <form action="/add">
+            <button type="submit">Add Selected</button>
+            <table>
+                {% for piece in gear %}
+                    <tr>
+                        <td>{{ piece.id }}</td>
+                        <td>{{ piece.brand }}</td>
+                        <td>{{ piece.sizeCode }}</td>
+                        <td><input type="checkbox" name={{piece.id}}></td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </form>
+    </div>
+    <div class="rack">
+        <canvas id="rackGraph" width=1000 height=350></canvas>
+        <form action="/rem">
+            <button type="submit">Remove Selected</button>
+            <table>
+                {% for piece in arack %}
+                    <tr>
+                        <td>{{ piece.id }}</td>
+                        <td>{{ piece.brand }}</td>
+                        <td>{{ piece.sizeCode }}</td>
+                        <td>Qty: {{session['aRack'][piece.id|string]}}</td>
+                        <td><input type="checkbox" name={{piece.id}}>Remove</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </form>
+    </div>
+</div>
+{% endblock %}
+
+{% block postScript %}
+<script type = "text/javascript" src="{{ url_for('static', filename='js/graphing.js') }}"></script>
+{% endblock %}
