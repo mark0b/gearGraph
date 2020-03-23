@@ -66,7 +66,7 @@ function generateJson() {
     };
     console.log('in generatejson');
     for (var i = 0; i <= 3500; i++) {
-        var zeroes
+        var zeroes = false;
         var temp = 0;
         for (piece in dataPy) {
             if ((i/10 >= dataPy[piece].lowFitMm) && (i/10 <= dataPy[piece].upFitMm)) {
@@ -75,11 +75,6 @@ function generateJson() {
         }
         json.data.datasets[0].data[i] = temp;
         json.data['labels'].push(i/10);
-    }
-    for (var i = 3500; i >= 0;i--){
-        if(json.data.datasets[0].data[i] == 0) {
-            json.data.datasets[0].data.pop(i);
-        } else {i = 0;}
     }
     console.log(json);
     return json;
