@@ -3,10 +3,10 @@ FROM python:3
 ENV NUM_WORKERS 4
 
 # We copy just the requirements.txt first to leverage Docker cache
-COPY ./requirements.txt /app/requirements.txt
+COPY ./requirements.txt /tmp/requirements.txt
 
-RUN pip install -r requirements.txt
+RUN pip install -r /tmp/requirements.txt
 
 COPY ./app /app
 
-ENTRYPOINT gunicorn -w ${NUM_WORKERS} app:app
+ENTRYPOINT gunicorn app:app -b 0.0.0.0:80 --log-level=debug
