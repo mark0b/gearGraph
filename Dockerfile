@@ -9,4 +9,6 @@ RUN pip install -r /tmp/requirements.txt
 
 COPY ./app /app
 
+EXPOSE 80
+
 ENTRYPOINT gunicorn app:app -b 0.0.0.0:80 --log-level=debug
