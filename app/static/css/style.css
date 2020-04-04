@@ -7,7 +7,6 @@ html, body {
 
 header {
     font-size: 24px;
-    border: 1px solid lime;
     margin: 0;
     padding: 5px;
     width: 100%;
@@ -26,13 +25,11 @@ header {
     height: 45px;
 }
 .graph {
-    border: 1px lime;
     padding: 5px;
     float: left;
 }
 
 .rack {
-    border: 1px lime;
     padding: 5px;
     float: right;
     width: 72%;
@@ -41,7 +38,6 @@ header {
 footer {
     font-size: 10px;
     font-weight: 100;
-    border: 1px lime;
     position: fixed;
     width: 100%;
     bottom: 0;
