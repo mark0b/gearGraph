@@ -81,7 +81,7 @@ def getData():
 
 @app.route('/')
 def index():
-    return "Hello Wod"
+    return "Hello Wo"
     # refresh()  # refreshes
     # arack = getData()  # gets data from the current session
     # if session['brand'] == '*ALL*':
