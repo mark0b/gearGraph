@@ -29,6 +29,7 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: |
+        env
         python3 --version
         sudo apt-get install -y python3-setuptools
         pip3 install wheel
