@@ -64,6 +64,10 @@ def getData():
 
 
 @app.route('/')
+def landing():
+    return render_template('/landing.html')
+
+@app.route('/graph')
 def index():
     refresh()  # refreshes
     arack = getData()  # gets data from the current session
