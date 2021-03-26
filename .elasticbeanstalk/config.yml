@@ -1,6 +1,4 @@
 branch-defaults:
-  dependabot/pip/flask-1.0:
-    environment: gear-dev
   master:
     environment: gear-dev
     group_suffix: null
@@ -9,9 +7,6 @@ environment-defaults:
     branch: null
     repository: null
   gear-dev:
-    branch: null
-    repository: null
-  gear-dev2:
     branch: null
     repository: null
 global:
