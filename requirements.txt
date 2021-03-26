@@ -13,5 +13,5 @@ pylint==1.8.1
 six==1.11.0
 Werkzeug==1.0.1
 wrapt==1.10.11
-flask_sqlalchemy==3.0
+flask_sqlalchemy==2.5.1
 autopep8==1.5
