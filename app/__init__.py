@@ -84,21 +84,21 @@ def index():
 @app.route('/query')
 def query():
     session['brand'] = request.args.get('selectBrand')
-    return redirect('/')
+    return redirect('/graph')
 
 
 @app.route('/add')
 def add():
     print('Adding to Rack: ', list(request.args.keys()))
     arack = refresh('add', list(request.args.keys()))
-    return redirect('/')
+    return redirect('/graph')
 
 
 @app.route('/rem')
 def rem():
     print('Removing from Rack: ', list(request.args.keys()))
     arack = refresh('rem', request.args.keys())
-    return redirect('/')
+    return redirect('/graph')
 
 
 @app.route('/about')
