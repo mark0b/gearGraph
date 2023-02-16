@@ -11,7 +11,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 pylint==1.8.1
 six==1.11.0
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wrapt==1.10.11
 flask_sqlalchemy==2.5.1
 autopep8==1.5
