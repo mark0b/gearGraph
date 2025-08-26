@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap');
+
+
+html, body {
+    font-family: 'Martian Mono', monospace;
+}
+* {outline: 1px solid lime}

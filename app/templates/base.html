@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <title>gearGraph</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    <script> 
+        var qty = {{session['aRack']|tojson}};
+        var dataPy = {{session['data']|tojson}};
+    </script>
+    {% block head %}{% endblock %}
+</head>
+
+<body>
+    <header>
+        GearGraph
+    </header>
+    {% block body %}{% endblock %}
+    <footer>
+        <h3>Some info about the site is on our <a href='/about'>about page</a>.</h3>
+        <a href='www.backcountry.com'>Click here to contribute</a>
+    </footer>
+</body>
+
+{% block postScript %}{% endblock %}

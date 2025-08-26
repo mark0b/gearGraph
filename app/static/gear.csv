@@ -1,0 +1,725 @@
+Current?,Brand,Size,Color,Lobes,Weight (g),Strength (kN),Combined Name,Lower (mm),Upper (mm),Range (mm)
+FALSE,Black Diamond,Camalot C3 000,gray,3,55,4,Black Diamond Camalot C3 000,7.8,12.9,5.1
+FALSE,Black Diamond,Camalot C3 00,purple,3,57,6,Black Diamond Camalot C3 00,9,13.7,4.7
+FALSE,Black Diamond,Camalot C3 0,green,3,59,7,Black Diamond Camalot C3 0,10.7,15.8,5.1
+FALSE,Black Diamond,Camalot C3 1,red,3,62,10,Black Diamond Camalot C3 1,12,18.8,6.8
+FALSE,Black Diamond,Camalot C3 2,yellow,3,66,10,Black Diamond Camalot C3 2,14.2,22.6,8.4
+TRUE,Black Diamond,X4 0.1,red,4,51,5,Black Diamond X4 0.1,8.4,13.8,5.4
+TRUE,Black Diamond,X4 0.2,yellow,4,54,6,Black Diamond X4 0.2,9.9,16.5,6.6
+TRUE,Black Diamond,X4 0.3,blue,4,75,8,Black Diamond X4 0.3,12.4,21.2,8.8
+TRUE,Black Diamond,X4 0.4,gray,4,82,10,Black Diamond X4 0.4,15.5,26.6,11.1
+TRUE,Black Diamond,X4 0.5,purple,4,91,10,Black Diamond X4 0.5,19.8,33.7,13.9
+TRUE,Black Diamond,X4 0.75,green,4,112,10,Black Diamond X4 0.75,24,41.2,17.2
+TRUE,Black Diamond,Old Camalot 0.3,blue,4,75,8,Black Diamond Old Camalot 0.3,13.8,23.4,9.6
+TRUE,Black Diamond,Old Camalot 0.4,gray,4,83,10,Black Diamond Old Camalot 0.4,15.5,26.7,11.2
+TRUE,Black Diamond,Old Camalot 0.5,purple,4,99,12,Black Diamond Old Camalot 0.5,19.6,33.5,13.9
+TRUE,Black Diamond,Old Camalot 0.75,green,4,119,14,Black Diamond Old Camalot 0.75,23.9,41.2,17.3
+TRUE,Black Diamond,Old Camalot 1,red,4,136,14,Black Diamond Old Camalot 1,30.2,52.1,21.9
+TRUE,Black Diamond,Old Camalot 2,yellow,4,155,14,Black Diamond Old Camalot 2,37.2,64.9,27.7
+TRUE,Black Diamond,Old Camalot 3,blue,4,201,14,Black Diamond Old Camalot 3,50.7,87.9,37.2
+TRUE,Black Diamond,Old Camalot 4,gray,4,289,14,Black Diamond Old Camalot 4,66,114.7,48.7
+TRUE,Black Diamond,Old Camalot 5,purple,4,380,14,Black Diamond Old Camalot 5,85.4,148.5,63.1
+TRUE,Black Diamond,Old Camalot 6,green,4,557,14,Black Diamond Old Camalot 6,114.1,195,80.9
+TRUE,Black Diamond,Camalot 0.3,blue/black,4,67.5,8,Black Diamond Camalot 0.3,13.8,23.4,9.6
+TRUE,Black Diamond,Camalot 0.4,gray/black,4,74.7,10,Black Diamond Camalot 0.4,15.5,26.7,11.2
+TRUE,Black Diamond,Camalot 0.5,purple/black,4,89.1,12,Black Diamond Camalot 0.5,19.6,33.5,13.9
+TRUE,Black Diamond,Camalot 0.75,green/black,4,107.1,14,Black Diamond Camalot 0.75,23.9,41.2,17.3
+TRUE,Black Diamond,Camalot 1,red/black,4,122.4,14,Black Diamond Camalot 1,30.2,52.1,21.9
+TRUE,Black Diamond,Camalot 2,yellow/black,4,139.5,14,Black Diamond Camalot 2,37.2,64.9,27.7
+TRUE,Black Diamond,Camalot 3,blue,4,180.9,14,Black Diamond Camalot 3,50.7,87.9,37.2
+TRUE,Black Diamond,Camalot 4,gray,4,260.1,14,Black Diamond Camalot 4,66,114.7,48.7
+TRUE,Black Diamond,Camalot 5,purple,4,342,14,Black Diamond Camalot 5,85.4,148.5,63.1
+TRUE,Black Diamond,Camalot 6,green,4,501.3,14,Black Diamond Camalot 6,114.1,195,80.9
+TRUE,Black Diamond,UL Camalot .4,gray,4,61,8,Black Diamond UL Camalot .4,15.5,26.7,11.2
+TRUE,Black Diamond,UL Camalot .5,purple,4,74,10,Black Diamond UL Camalot .5,19.6,33.5,13.9
+TRUE,Black Diamond,UL Camalot .75,green,4,89,12,Black Diamond UL Camalot .75,23.9,41.2,17.3
+TRUE,Black Diamond,UL Camalot 1,red,4,101,12,Black Diamond UL Camalot 1,30.2,52.1,21.9
+TRUE,Black Diamond,UL Camalot 2,yellow,4,126,12,Black Diamond UL Camalot 2,37.2,64.9,27.7
+TRUE,Black Diamond,UL Camalot 3,blue,4,167,12,Black Diamond UL Camalot 3,50.7,87.9,37.2
+TRUE,Black Diamond,UL Camalot 4,gray,4,225,12,Black Diamond UL Camalot 4,66,114.7,48.7
+FALSE,Black Diamond,SS Micro Cam 0.1,red,4,62,7,Black Diamond SS Micro Cam 0.1,8.64,13.71,5.07
+FALSE,Black Diamond,SS Micro Cam 0.2,yellow,4,68,8,Black Diamond SS Micro Cam 0.2,10.41,16.51,6.1
+FALSE,Black Diamond,SS Micro Cam 0.3,blue,4,74,10,Black Diamond SS Micro Cam 0.3,12.7,21.84,9.14
+FALSE,Black Diamond,SS Micro Cam 0.4,gray,4,96,10,Black Diamond SS Micro Cam 0.4,15.5,26.67,11.17
+FALSE,Black Diamond,SS Micro Cam 0.5,purple,4,113,12,Black Diamond SS Micro Cam 0.5,20.32,33,12.68
+FALSE,Black Diamond,SS Micro Cam 0.75,green,4,136,16,Black Diamond SS Micro Cam 0.75,24.38,40.13,15.75
+FALSE,Black Diamond,SS Camalot 1,red,4,162,16,Black Diamond SS Camalot 1,30.48,50.8,20.32
+FALSE,Black Diamond,SS Camalot 2,yellow,4,190,16,Black Diamond SS Camalot 2,38.1,63.5,25.4
+FALSE,Black Diamond,SS Camalot 3,blue,4,238,16,Black Diamond SS Camalot 3,50.8,86.36,35.56
+FALSE,Black Diamond,SS Camalot 3.5,gray,4,312,16,Black Diamond SS Camalot 3.5,60.96,104.14,43.18
+FALSE,Black Diamond,SS Camalot 4,purple,4,343,16,Black Diamond SS Camalot 4,73.66,124.46,50.8
+FALSE,Black Diamond,SS Camalot 4.5,red,4,437,12,Black Diamond SS Camalot 4.5,88.9,147.32,58.42
+FALSE,Black Diamond,SS Camalot 5,green,4,544,12,Black Diamond SS Camalot 5,106.8,177.8,71
+TRUE,Camp,Ball Nut 1,Blue,N/A,31,8,Camp Ball Nut 1,3,6,3
+TRUE,Camp,Ball Nut 2,Red,N/A,39,8,Camp Ball Nut 2,4.5,9,4.5
+TRUE,Camp,Ball Nut 3,yellow,N/A,47,8,Camp Ball Nut 3,6,12,6
+TRUE,Camp,Ball Nut 4,green,N/A,57,8,Camp Ball Nut 4,8,14,6
+TRUE,Camp,Ball Nut 5,purple,N/A,72,8,Camp Ball Nut 5,10.5,18,7.5
+FALSE,CCH,Alien 1/3,black,4,68,,CCH Alien 1/3,9,12,3
+FALSE,CCH,Alien 3/8,blue,4,71,,CCH Alien 3/8,11,14,3
+FALSE,CCH,Alien 1/2,green,4,74,,CCH Alien 1/2,14,18,4
+FALSE,CCH,Alien 3/4,yellow,4,85,,CCH Alien 3/4,17,23,6
+FALSE,CCH,Alien 1,red,4,88,,CCH Alien 1,21,28,7
+FALSE,CCH,Alien 1.5,orange,4,113,,CCH Alien 1.5,28,36,8
+FALSE,CCH,Alien 2,purple,4,125,,CCH Alien 2,33,43,10
+FALSE,CCH,Alien 2.5,gray,4,142,,CCH Alien 2.5,38,51,13
+FALSE,Climb X,X-Tech 1,red,4,87,6,Climb X X-Tech 1,10,17,7
+FALSE,Climb X,X-Tech 2,orange,4,90,8,Climb X X-Tech 2,13,19,6
+FALSE,Climb X,X-Tech 3,yellow,4,94,8,Climb X X-Tech 3,15,23,8
+FALSE,Climb X,X-Tech 4,blue,4,100,8,Climb X X-Tech 4,19,29,10
+FALSE,Climb X,X-Tech 5,dark blue,4,111,9,Climb X X-Tech 5,21,35,14
+FALSE,Climb X,X-Tech 6,red,4,132,9,Climb X X-Tech 6,26,44,18
+FALSE,Climb X,X-Tech 7,orange,4,147,9,Climb X X-Tech 7,30,54,24
+FALSE,Climb X,X-Tech 8,yellow,4,163,9,Climb X X-Tech 8,39,66,27
+FALSE,Climb X,X-Tech 9,blue,4,202,10,Climb X X-Tech 9,49,82,33
+FALSE,Climb X,X-Tech 10,black,4,247,11,Climb X X-Tech 10,57,100,43
+TRUE,DMM,Dragon 00,blue,4,75,9,DMM Dragon 00,13,21,8
+TRUE,DMM,Dragon 0,silver,4,85,12,DMM Dragon 0,16,25,9
+TRUE,DMM,Dragon 1,purple,4,97,14,DMM Dragon 1,20,33,13
+TRUE,DMM,Dragon 2,green,4,106,14,DMM Dragon 2,24,41,17
+TRUE,DMM,Dragon 3,red,4,119,14,DMM Dragon 3,29,50,21
+TRUE,DMM,Dragon 4,gold,4,148,14,DMM Dragon 4,38,64,26
+TRUE,DMM,Dragon 5,blue,4,195,14,DMM Dragon 5,50,85,35
+TRUE,DMM,Dragon 6,silver,4,276,14,DMM Dragon 6,68,114,46
+TRUE,DMM,Dragon 7,purple,4,362,14,DMM Dragon 7,88,149,61
+TRUE,DMM,Dragon 8,green,4,515,14,DMM Dragon 8,116,195,79
+TRUE,DMM,3CU 0,blue,3,74,12,DMM 3CU 0,13,19,6
+TRUE,DMM,3CU 0.5,red,3,80,12,DMM 3CU 0.5,17,24,7
+TRUE,DMM,3CU 1,gold,3,84,12,DMM 3CU 1,19,29,10
+TRUE,DMM,3CU 1.25,purple,3,87,12,DMM 3CU 1.25,21,33,12
+TRUE,DMM,3CU 1.5,silver,3,88,12,DMM 3CU 1.5,23,35,12
+TRUE,DMM,3CU 1.75,green,3,90,12,DMM 3CU 1.75,25,41,16
+TRUE,DMM,4CU 0,blue,4,75,12,DMM 4CU 0,13,19,6
+TRUE,DMM,4CU 0.5,red,4,80,12,DMM 4CU 0.5,17,24,7
+TRUE,DMM,4CU 1,gold,4,93,12,DMM 4CU 1,19,29,10
+TRUE,DMM,4CU 1.25,purple,4,96,12,DMM 4CU 1.25,21,33,12
+TRUE,DMM,4CU 1.5,silver,4,97,12,DMM 4CU 1.5,23,35,12
+TRUE,DMM,4CU 1.75,green,4,99,12,DMM 4CU 1.75,25,41,16
+TRUE,DMM,4CU 2,red,4,110,12,DMM 4CU 2,29,44,15
+TRUE,DMM,4CU 2.5,gold,4,123,12,DMM 4CU 2.5,33,55,22
+TRUE,DMM,4CU 3,purple,4,151,12,DMM 4CU 3,43,66,23
+TRUE,DMM,4CU 3.5,blue,4,185,12,DMM 4CU 3.5,51,82,31
+TRUE,DMM,4CU 4,silver,4,224,12,DMM 4CU 4,64,100,36
+TRUE,DMM,Demon 0,blue,4,84,14,DMM Demon 0,13,19,6
+TRUE,DMM,Demon 0.5,red,4,90,14,DMM Demon 0.5,17,24,7
+TRUE,DMM,Demon 1,gold,4,97,14,DMM Demon 1,19,29,10
+TRUE,DMM,Demon 1.5,silver,4,101,14,DMM Demon 1.5,23,35,12
+TRUE,DMM,Demon 2,red,4,113,14,DMM Demon 2,29,44,15
+TRUE,DMM,Demon 2.5,gold,4,127,14,DMM Demon 2.5,33,55,22
+TRUE,DMM,Demon 3,purple,4,154,14,DMM Demon 3,43,66,23
+TRUE,DMM,Demon 3.5,blue,4,181,14,DMM Demon 3.5,51,82,31
+TRUE,DMM,Demon 4,silver,4,221,14,DMM Demon 4,64,100,36
+FALSE,DMM,Old 3CU .5,purple,3,74,,DMM Old 3CU .5,14,17,3
+FALSE,DMM,Old 3CU .75,green,3,79,,DMM Old 3CU .75,18,21,3
+FALSE,DMM,Old 3CU 1,blue,3,88,,DMM Old 3CU 1,20,24,4
+FALSE,DMM,Old 3CU 1.25,gray,3,88,,DMM Old 3CU 1.25,22,28,6
+FALSE,DMM,Old 3CU 1.5,yellow,3,88,,DMM Old 3CU 1.5,24,30,6
+FALSE,DMM,Old 3CU 1.75,red,3,94,,DMM Old 3CU 1.75,25,36,11
+FALSE,DMM,Old 4CU .5,purple,4,77,,DMM Old 4CU .5,14,17,3
+FALSE,DMM,Old 4CU .75,green,4,82,,DMM Old 4CU .75,18,21,3
+FALSE,DMM,Old 4CU 1,blue,4,94,,DMM Old 4CU 1,20,24,4
+FALSE,DMM,Old 4CU 1.25,gray,4,96,,DMM Old 4CU 1.25,22,28,6
+FALSE,DMM,Old 4CU 1.5,yellow,4,99,,DMM Old 4CU 1.5,24,30,6
+FALSE,DMM,Old 4CU 1.75,red,4,102,,DMM Old 4CU 1.75,25,36,11
+FALSE,DMM,Old 4CU 2,purple,4,111,,DMM Old 4CU 2,30,38,8
+FALSE,DMM,Old 4CU 2.5,green,4,125,,DMM Old 4CU 2.5,36,46,10
+FALSE,DMM,Old 4CU 3,blue,4,139,,DMM Old 4CU 3,46,56,10
+FALSE,DMM,Old 4CU 3.5,gray,4,159,,DMM Old 4CU 3.5,53,69,16
+FALSE,DMM,Old 4CU 4,yellow,4,190,,DMM Old 4CU 4,69,86,17
+TRUE,Fixe Hardware,Alien 1/3,black,4,64,9,Fixe Hardware Alien 1/3,8,14,6
+TRUE,Fixe Hardware,Alien 3/8,blue,4,68,11,Fixe Hardware Alien 3/8,10,17,7
+TRUE,Fixe Hardware,Alien 1/2,green,4,70,11,Fixe Hardware Alien 1/2,13,22,9
+TRUE,Fixe Hardware,Alien 3/4,yellow,4,80,11,Fixe Hardware Alien 3/4,15,25,10
+TRUE,Fixe Hardware,Alien 7/8,grey,4,82,12,Fixe Hardware Alien 7/8,17,30,13
+TRUE,Fixe Hardware,Alien 1,red,4,84,12,Fixe Hardware Alien 1,20,33,13
+FALSE,Fixe Hardware,Alien 1.25,Gold,4,109,13,Fixe Hardware Alien 1.25,25,38,13
+FALSE,Fixe Hardware,Alien 1.5,Orange,4,120,16,Fixe Hardware Alien 1.5,26,40,14
+FALSE,Fixe Hardware,Alien 2,Purple,4,124,16,Fixe Hardware Alien 2,30,50,20
+FALSE,Fixe Hardware,Alien 2.5,Clear,4,136,16,Fixe Hardware Alien 2.5,35,58,23
+TRUE,Fixe Hardware,Alien Revolution 1/3,black,4,46,5,Fixe Hardware Alien Revolution 1/3,8,14,6
+TRUE,Fixe Hardware,Alien Revolution 3/8,blue,4,48,6,Fixe Hardware Alien Revolution 3/8,10,17,7
+TRUE,Fixe Hardware,Alien Revolution 1/2,green,4,52,7,Fixe Hardware Alien Revolution 1/2,13,22,9
+TRUE,Fixe Hardware,Alien Revolution 3/4,yellow,4,58,10,Fixe Hardware Alien Revolution 3/4,15,25,10
+TRUE,Fixe Hardware,Alien Revolution 7/8,grey,4,59,10,Fixe Hardware Alien Revolution 7/8,17,30,13
+TRUE,Fixe Hardware,Alien Revolution 1,red,4,61,10,Fixe Hardware Alien Revolution 1,20,33,13
+TRUE,Kouba,Flex .25,black,4,60,7,Kouba Flex .25,12,16.5,4.5
+TRUE,Kouba,Flex .5,blue,4,65,9,Kouba Flex .5,14,20,6
+TRUE,Kouba,Flex .72,red,4,68,10,Kouba Flex .72,17,24.5,7.5
+TRUE,Kouba,Flex 1,gray,4,95,12,Kouba Flex 1,20,29,9
+TRUE,Kouba,Flex 2,yellow,4,104,12,Kouba Flex 2,27,41,14
+TRUE,Kouba,Flex 3,blue,4,139,14,Kouba Flex 3,35,53,18
+TRUE,Kouba,Flex 4,orange,4,164,14,Kouba Flex 4,48,67,19
+TRUE,Kouba,Flex 5,black,4,205,14,Kouba Flex 5,61,91,30
+TRUE,Kouba,Manta .25,yellow,4,57,6,Kouba Manta .25,12,16.5,4.5
+TRUE,Kouba,Manta .5,blue,4,63,8,Kouba Manta .5,14,20,6
+TRUE,Kouba,Manta .75,green,4,66,10,Kouba Manta .75,17,24.5,7.5
+TRUE,Kouba,Manta 1,gray,4,99,14,Kouba Manta 1,20,30,10
+TRUE,Kouba,Manta 2,yellow,4,108,14,Kouba Manta 2,25,40,15
+TRUE,Kouba,Manta 3,blue,4,152,14,Kouba Manta 3,35,53,18
+TRUE,Kouba,Manta 4,orange,4,172,14,Kouba Manta 4,44,68,24
+TRUE,Kouba,Manta 5,red,4,212,12,Kouba Manta 5,58,90,32
+TRUE,Kouba,Manta 6,black,4,255,12,Kouba Manta 6,73,115,42
+TRUE,Kouba,Manta 7,green,4,312,12,Kouba Manta 7,90,145,55
+TRUE,Kouba,Permon .25,blue,4,75,5,Kouba Permon .25,14,22,8
+TRUE,Kouba,Permon .5,green,4,78,6,Kouba Permon .5,16,27,11
+TRUE,Kouba,Permon 1,gray,4,103,7,Kouba Permon 1,18,31,13
+TRUE,Kouba,Permon 2,yellow,4,110,10,Kouba Permon 2,22,38,16
+TRUE,Kouba,Permon 3,blue,4,130,10,Kouba Permon 3,27,47,20
+TRUE,Kouba,Permon 4,orange,4,159,10,Kouba Permon 4,35,60,25
+TRUE,Kouba,Permon 5,purple,4,214,14,Kouba Permon 5,46,80,34
+TRUE,Kouba,Permon 6,black,4,258,14,Kouba Permon 6,64,108,44
+TRUE,Metolius,Ultralight TCU 000,Green,3,26,3,Metolius Ultralight TCU 000,6.6,10.2,3.6
+TRUE,Metolius,Ultralight TCU 00,gray,3,41,5,Metolius Ultralight TCU 00,8.5,12,3.5
+TRUE,Metolius,Ultralight TCU 0,purple,3,43,5,Metolius Ultralight TCU 0,10,15,5
+TRUE,Metolius,Ultralight TCU 1,blue,3,50,8,Metolius Ultralight TCU 1,12.5,18,5.5
+TRUE,Metolius,Ultralight TCU 2,yellow,3,57,10,Metolius Ultralight TCU 2,15.5,22.5,7
+TRUE,Metolius,Ultralight TCU 3,orange,3,59,10,Metolius Ultralight TCU 3,18.5,26.5,8
+TRUE,Metolius,Ultralight TCU 4,red,3,68,10,Metolius Ultralight TCU 4,23.5,33.5,10
+FALSE,Metolius,TCU 00,gray,3,60,4.4,Metolius TCU 00,9,12,3
+FALSE,Metolius,TCU 0,purple,3,62,4.4,Metolius TCU 0,11,13,2
+FALSE,Metolius,TCU 1,blue,3,65,8.8,Metolius TCU 1,13,17,4
+FALSE,Metolius,TCU 2,yellow,3,71,8.8,Metolius TCU 2,16,20,4
+FALSE,Metolius,TCU 3,orange,3,82,13.3,Metolius TCU 3,20,24,4
+FALSE,Metolius,TCU 4,red,3,91,13.3,Metolius TCU 4,24,30,6
+FALSE,Metolius,Power 00,gray,4,60,4.4,Metolius Power 00,9,14,5
+FALSE,Metolius,Power 0,purple,4,62,4.4,Metolius Power 0,10,16.5,6.5
+FALSE,Metolius,Power 1,blue,4,71,8.8,Metolius Power 1,11.5,19.5,8
+FALSE,Metolius,Power 2,yellow,4,74,8.8,Metolius Power 2,15,25,10
+FALSE,Metolius,Power 3,orange,4,85,13.3,Metolius Power 3,18,28,10
+FALSE,Metolius,Power 4,red,4,94,13.3,Metolius Power 4,23,35.5,12.5
+FALSE,Metolius,Power 5,black,4,99,13.3,Metolius Power 5,27.5,42.5,15
+FALSE,Metolius,Power 6,Green,4,111,13.3,Metolius Power 6,33,52,19
+FALSE,Metolius,Power 7,blue,4,142,13.3,Metolius Power 7,40.5,64,23.5
+FALSE,Metolius,Power 8,purple,4,164,13.3,Metolius Power 8,49,78,29
+FALSE,Metolius,Power 9,red,4,213,13.3,Metolius Power 9,59.5,94.5,35
+FALSE,Metolius,Power 10,blue,4,269,13.3,Metolius Power 10,73.5,115.5,42
+TRUE,Metolius,Ultralight Power 00,gray,4,45,5,Metolius Ultralight Power 00,8.5,12,3.5
+TRUE,Metolius,Ultralight Power 0,purple,4,48,5,Metolius Ultralight Power 0,10,15,5
+TRUE,Metolius,Ultralight Power 1,blue,4,54,8,Metolius Ultralight Power 1,12.5,18,5.5
+TRUE,Metolius,Ultralight Power 2,yellow,4,64,10,Metolius Ultralight Power 2,15.5,22.5,7
+TRUE,Metolius,Ultralight Power 3,orange,4,68,10,Metolius Ultralight Power 3,18.5,26.5,8
+TRUE,Metolius,Ultralight Power 4,red,4,77,10,Metolius Ultralight Power 4,23.5,33.5,10
+TRUE,Metolius,Ultralight Power 5,black,4,86,10,Metolius Ultralight Power 5,28,39.5,11.5
+TRUE,Metolius,Ultralight Power 6,green,4,98,10,Metolius Ultralight Power 6,32.5,48,15.5
+TRUE,Metolius,Ultralight Power 7,light blue,4,127,10,Metolius Ultralight Power 7,40,57.5,17.5
+TRUE,Metolius,Ultralight Power 8,light purple,4,150,10,Metolius Ultralight Power 8,48.5,71.5,23
+FALSE,Metolius,Fat 2,yellow,4,88,8.8,Metolius Fat 2,15,25,10
+FALSE,Metolius,Fat 3,orange,4,91,13.3,Metolius Fat 3,18,28,10
+FALSE,Metolius,Fat 4,red,4,99,13.3,Metolius Fat 4,23,35.5,12.5
+FALSE,Metolius,Fat 5,black,4,113,13.3,Metolius Fat 5,27.5,42.5,15
+FALSE,Metolius,Fat 6,green,4,130,13.3,Metolius Fat 6,33,52,19
+FALSE,Metolius,Fat 7,light blue,4,147,13.3,Metolius Fat 7,40.5,64,23.5
+FALSE,Metolius,Fat 8,light purple,4,170,13.3,Metolius Fat 8,49.5,78,28.5
+FALSE,Metolius,Fat 9,maroon,4,227,13.3,Metolius Fat 9,59.5,94.5,35
+TRUE,Metolius,Ultralight Fat 2,yellow,4,72,10,Metolius Ultralight Fat 2,15.5,22.5,7
+TRUE,Metolius,Ultralight Fat 3,orange,4,75,10,Metolius Ultralight Fat 3,18.5,26.5,8
+TRUE,Metolius,Ultralight Fat 4,Red,4,84,10,Metolius Ultralight Fat 4,23.5,33.5,10
+TRUE,Metolius,Ultralight Fat 5,Black,4,98,10,Metolius Ultralight Fat 5,28,39.5,11.5
+TRUE,Metolius,Ultralight Fat 6,green,4,111,10,Metolius Ultralight Fat 6,32.5,48,15.5
+TRUE,Metolius,Ultralight Fat 7,blue,4,136,10,Metolius Ultralight Fat 7,40.5,57.5,17
+TRUE,Metolius,Ultralight Fat 8,purple,4,154,10,Metolius Ultralight Fat 8,48.5,71.5,23
+FALSE,Metolius,Master 00,gray,4,62,5,Metolius Master 00,8.5,12,3.5
+FALSE,Metolius,Master 0,purple,4,65,5,Metolius Master 0,10,15,5
+FALSE,Metolius,Master 1,blue,4,68,8,Metolius Master 1,12.5,18,5.5
+FALSE,Metolius,Master 2,yellow,4,70,10,Metolius Master 2,15.5,22.5,7
+FALSE,Metolius,Master 3,orange,4,82,10,Metolius Master 3,18.5,26.5,8
+FALSE,Metolius,Master 4,red,4,90,10,Metolius Master 4,23.3,33.5,10.2
+FALSE,Metolius,Master 5,black,4,98,10,Metolius Master 5,28,39.5,11.5
+FALSE,Metolius,Master 6,green,4,110,10,Metolius Master 6,32.5,48,15.5
+TRUE,Metolius,UL Master 00,gray,4,45,5,Metolius UL Master 00,8.5,12,3.5
+TRUE,Metolius,UL Master 0,purple,4,45,5,Metolius UL Master 0,10,15,5
+TRUE,Metolius,UL Master 1,blue,4,52,8,Metolius UL Master 1,12.5,18,5.5
+TRUE,Metolius,UL Master 2,yellow,4,55,10,Metolius UL Master 2,15.5,22.5,7
+TRUE,Metolius,UL Master 3,orange,4,65,10,Metolius UL Master 3,18.5,26.5,8
+TRUE,Metolius,UL Master 4,red,4,75,10,Metolius UL Master 4,23.5,33.5,10
+TRUE,Metolius,UL Master 5,black,4,85,10,Metolius UL Master 5,28,39.5,11.5
+TRUE,Metolius,UL Master 6,green,4,96,10,Metolius UL Master 6,32.5,48,15.5
+TRUE,Metolius,UL Master 7,blue,4,112,10,Metolius UL Master 7,40,57.5,17.5
+TRUE,Metolius,UL Master 8,purple,4,129,10,Metolius UL Master 8,48.5,71.5,23
+TRUE,Metolius,Supercam small,gray,4,184,12,Metolius Supercam small,42,63.4,21.4
+TRUE,Metolius,Supercam medium,maroon,4,255,12,Metolius Supercam medium,52.5,91.5,39
+TRUE,Metolius,Supercam large,dark blue,4,312,12,Metolius Supercam large,66.5,118.5,52
+TRUE,Omega Pacific,Link 0.5,purple,4,95,8,Omega Pacific Link 0.5,13.5,35,21.5
+TRUE,Omega Pacific,Link 0.75,green,4,113,10,Omega Pacific Link 0.75,17.8,44.5,26.7
+TRUE,Omega Pacific,Link 1,red,4,176,14,Omega Pacific Link 1,21.1,53.3,32.2
+TRUE,Omega Pacific,Link 2,yellow,4,207,14,Omega Pacific Link 2,25.4,64,38.6
+TRUE,Rock Empire,Axel .25,Blue,4,98,6,Rock Empire Axel .25,14,22,8
+TRUE,Rock Empire,Axel .5,Green,4,100,7,Rock Empire Axel .5,16,27,11
+TRUE,Rock Empire,Axel 1,gray,4,110,8,Rock Empire Axel 1,18,31,13
+TRUE,Rock Empire,Axel 2,purple,4,116,8,Rock Empire Axel 2,22,38,16
+TRUE,Rock Empire,Axel 3,black,4,134,9,Rock Empire Axel 3,27,47,20
+TRUE,Rock Empire,Axel 4,red,4,164,9,Rock Empire Axel 4,35,60,25
+TRUE,Rock Empire,Axel 5,yellow,4,212,14,Rock Empire Axel 5,46,80,34
+TRUE,Rock Empire,Axel 6,blue,4,254,14,Rock Empire Axel 6,64,108,44
+TRUE,Rock Empire,Comet .25,Green,4,68,7,Rock Empire Comet .25,12,16.5,4.5
+TRUE,Rock Empire,Comet .5,blue,4,72,9,Rock Empire Comet .5,14,20,6
+TRUE,Rock Empire,Comet .75,brown,4,76,10,Rock Empire Comet .75,17,24,7
+TRUE,Rock Empire,Comet 1,silver,4,82,11,Rock Empire Comet 1,18.5,30.5,12
+TRUE,Rock Empire,Comet 2,yellow,4,96,11,Rock Empire Comet 2,21,35,14
+TRUE,Rock Empire,Comet 3,blue,4,102,12,Rock Empire Comet 3,26,44.5,18.5
+TRUE,Rock Empire,Comet 4,red,4,138,12,Rock Empire Comet 4,33,55,22
+TRUE,Rock Empire,Comet 5,black,4,162,12,Rock Empire Comet 5,43,70,27
+TRUE,Rock Empire,Comet 6,light yellow,4,214,12,Rock Empire Comet 6,55,89,34
+TRUE,Rock Empire,Comet 7,green,4,258,12,Rock Empire Comet 7,72,113,41
+TRUE,Rock Empire,Comet 8,blue,4,316,12,Rock Empire Comet 8,90,140,50
+TRUE,Rock Empire,Flexor .25,green,4,78,7,Rock Empire Flexor .25,12,16,4
+TRUE,Rock Empire,Flexor .5,blue,4,84,9,Rock Empire Flexor .5,14,20,6
+TRUE,Rock Empire,Flexor .75,red,4,86,10,Rock Empire Flexor .75,16,23,7
+TRUE,Rock Empire,Flexor 1,gray,4,100,11,Rock Empire Flexor 1,19,28,9
+TRUE,Rock Empire,Flexor 2,yellow,4,108,11,Rock Empire Flexor 2,22,34,12
+TRUE,Rock Empire,Flexor 3,blue,4,118,11,Rock Empire Flexor 3,27,44,17
+TRUE,Rock Empire,Flexor 4,orange,4,154,12,Rock Empire Flexor 4,33,53,20
+TRUE,Rock Empire,Flexor 5,black,4,176,12,Rock Empire Flexor 5,43,68,25
+TRUE,Rock Empire,Flexor 6,light yellow,4,224,12,Rock Empire Flexor 6,55,88,33
+TRUE,Rock Empire,Flexor 7,green,4,280,12,Rock Empire Flexor 7,70,110,40
+TRUE,Totem,Basic 0.50,blue,4,56,5,Totem Basic 0.50,11.2,17.4,6.2
+TRUE,Totem,Basic 0.6HY,blue,4,57,5,Totem Basic 0.6HY,13.6,17.4,3.8
+TRUE,Totem,Basic 0.65,green,4,60,7,Totem Basic 0.65,13.6,21.4,7.8
+TRUE,Totem,Basic 0.70HY,green,4,62,7,Totem Basic 0.70HY,16.6,21.4,4.8
+TRUE,Totem,Basic 0.75,yellow,4,68,9,Totem Basic 0.75,16.6,26.1,9.5
+TRUE,Totem,Basic 0.85HY,yellow,4,69,9,Totem Basic 0.85HY,19.9,26.1,6.2
+TRUE,Totem,Basic 0.95,red,4,72,11,Totem Basic 0.95,19.9,31.6,11.7
+TRUE,Totem,Totem 0.50,,4,69,6,Totem Totem 0.50,12,19,7
+TRUE,Totem,Totem 0.65,blue,4,75,8,Totem Totem 0.65,13.8,22.5,8.7
+TRUE,Totem,Totem 0.80,yellow,4,83,9,Totem Totem 0.80,17,27.7,10.7
+TRUE,Totem,Totem 1.00,purple,4,95,10,Totem Totem 1.00,20.9,34.2,13.3
+TRUE,Totem,Totem 1.25,green,4,109,13,Totem Totem 1.25,25.7,42.3,16.6
+TRUE,Totem,Totem 1.50,red,4,132.5,13,Totem Totem 1.50,31.6,52.2,20.6
+TRUE,Totem,Totem 1.80,,4,144,13,Totem Totem 1.80,40,64,24
+TRUE,Trango,FlexCam 1,orange,4,56,8,Trango FlexCam 1,12,18,6
+TRUE,Trango,FlexCam 2,blue,4,65,9,Trango FlexCam 2,16,22,6
+TRUE,Trango,FlexCam 3,purple,4,72,9,Trango FlexCam 3,20,28,8
+TRUE,Trango,FlexCam 4,yellow,4,80,9,Trango FlexCam 4,24,35,11
+TRUE,Trango,FlexCam 5,red,4,121,12,Trango FlexCam 5,27,44,17
+TRUE,Trango,FlexCam 6,orange,4,127,12,Trango FlexCam 6,33,55,22
+TRUE,Trango,FlexCam 7,blue,4,141,12,Trango FlexCam 7,42,69,27
+TRUE,Trango,FlexCam 8,green,4,179,12,Trango FlexCam 8,52,86,34
+TRUE,Trango,FlexCam 9,purple,4,232,12,Trango FlexCam 9,63,108,45
+FALSE,Trango,4Cam 2,red,4,82,13,Trango 4Cam 2,17,23,6
+FALSE,Trango,4Cam 3,yellow,4,88,14,Trango 4Cam 3,19,28,9
+FALSE,Trango,4Cam 4,green,4,91,14,Trango 4Cam 4,22,34,12
+FALSE,Trango,4Cam 5,purple,4,122,15,Trango 4Cam 5,28,42,14
+FALSE,Trango,4Cam 6,blue,4,138,15,Trango 4Cam 6,34,57,23
+FALSE,Trango,4Cam 7,red,4,167,15,Trango 4Cam 7,44,70,26
+FALSE,Trango,4Cam 8,yellow,4,194,15,Trango 4Cam 8,52,88,36
+FALSE,Trango,4Cam 9,green,4,276,15,Trango 4Cam 9,75,102,27
+FALSE,Trango,4Cam 10,purple,4,358,15,Trango 4Cam 10,97,137,40
+FALSE,Trango,US-TCU Flex 1,blue,3,77,9,Trango US-TCU Flex 1,15,20,5
+FALSE,Trango,US-TCU Flex 2,red,3,79,13,Trango US-TCU Flex 2,17,23,6
+FALSE,Trango,US-TCU Flex 3,yellow,3,85,14,Trango US-TCU Flex 3,19,28,9
+FALSE,Trango,US-TCU Flex 4,green,3,91,14,Trango US-TCU Flex 4,22,34,12
+FALSE,Trango,Splitter Cam .5,Red,4,51,8,Trango Splitter Cam .5,10,14,4
+FALSE,Trango,Splitter Cam 1,yellow,4,58,8,Trango Splitter Cam 1,12,18,6
+FALSE,Trango,Splitter Cam 2,Blue,4,60,9,Trango Splitter Cam 2,16,22,6
+FALSE,Trango,Splitter Cam 3,purple,4,68,9,Trango Splitter Cam 3,20,28,8
+FALSE,Trango,Splitter Cam 4,Green,4,74,9,Trango Splitter Cam 4,24,35,11
+FALSE,Trango,Old Flex 1,yellow,4,65,8,Trango Old Flex 1,12,16.5,4.5
+FALSE,Trango,Old Flex 2,blue,4,68,9,Trango Old Flex 2,14,20,6
+FALSE,Trango,Old Flex 3,red,4,70,10,Trango Old Flex 3,17,24.5,7.5
+FALSE,Trango,Old Flex 4,gray,4,95,12,Trango Old Flex 4,20,29,9
+FALSE,Trango,Old Flex 5,yellow,4,110,12,Trango Old Flex 5,27,41,14
+FALSE,Trango,Old Flex 6,blue,4,140,12,Trango Old Flex 6,35,53,18
+FALSE,Trango,Old Flex 7,red,4,170,12,Trango Old Flex 7,48,67,19
+FALSE,Trango,Old Flex 8,black,4,210,12,Trango Old Flex 8,61,91,30
+TRUE,Valley Giant,VG 9,gray,4,888,17,Valley Giant VG 9,145,229,84
+TRUE,Valley Giant,VG 12,gray,4,990,9,Valley Giant VG 12,188,305,117
+FALSE,Wild Country,Zero 1,purple,4,25,3,Wild Country Zero 1,5.5,7.8,2.3
+FALSE,Wild Country,Zero 2,green,4,32,4,Wild Country Zero 2,7,9.8,2.8
+FALSE,Wild Country,Zero 3,silver,4,44,6,Wild Country Zero 3,8.5,12.2,3.7
+FALSE,Wild Country,Zero 4,gold,4,50,6,Wild Country Zero 4,10.3,16,5.7
+FALSE,Wild Country,Zero 5,blue,4,66,9,Wild Country Zero 5,13,19,6
+FALSE,Wild Country,Zero 6,red,4,70,9,Wild Country Zero 6,17,24,7
+FALSE,Wild Country,Helium 0.0,blue,4,87,12,Wild Country Helium 0.0,14,22,8
+FALSE,Wild Country,Helium 0.5,red,4,91,12,Wild Country Helium 0.5,16,26,10
+FALSE,Wild Country,Helium 1.0,gold,4,95,12,Wild Country Helium 1.0,19,32,13
+FALSE,Wild Country,Helium 1.5,silver,4,104,12,Wild Country Helium 1.5,23,38,15
+FALSE,Wild Country,Helium 2.0,red,4,109,12,Wild Country Helium 2.0,28,46,18
+FALSE,Wild Country,Helium 2.5,gold,4,117,12,Wild Country Helium 2.5,34,55,21
+FALSE,Wild Country,Helium 3.0,purple,4,145,12,Wild Country Helium 3.0,42,67,25
+FALSE,Wild Country,Helium 3.5,blue,4,171,12,Wild Country Helium 3.5,51,83,32
+FALSE,Wild Country,Helium 4.0,silver,4,208,12,Wild Country Helium 4.0,64,101,37
+TRUE,Wild Country,Tech Friend 5.0,Red,4,339,14,Wild Country Tech Friend 5.0,84,138,54
+TRUE,Wild Country,Tech Friend 6.0,Green,4,533,14,Wild Country Tech Friend 6.0,118,194,76
+TRUE,Wild Country,New Friend 0.4,gray,4,75,10,Wild Country New Friend 0.4,15.8,26.37,10.57
+TRUE,Wild Country,New Friend 0.5,purple,4,88,12,Wild Country New Friend 0.5,20.6,34.5,13.9
+TRUE,Wild Country,New Friend 0.75,Green,4,102,12,Wild Country New Friend 0.75,25.8,43,17.2
+TRUE,Wild Country,New Friend 1,red,4,123,12,Wild Country New Friend 1,31.7,53.6,21.9
+TRUE,Wild Country,New Friend 2,yellow,4,142,12,Wild Country New Friend 2,41.5,69.3,27.8
+TRUE,Wild Country,New Friend 3,Blue,4,192,12,Wild Country New Friend 3,52.7,88,35.3
+TRUE,Wild Country,New Friend 4,gray,4,260,12,Wild Country New Friend 4,66.8,112.1,45.3
+FALSE,Wild Country,Forged Friend 1,yellow,4,88,14,Wild Country Forged Friend 1,20,24,4
+FALSE,Wild Country,Forged Friend 1.25,purple,4,94,14,Wild Country Forged Friend 1.25,22,28,6
+FALSE,Wild Country,Forged Friend 1.5,gray,4,94,14,Wild Country Forged Friend 1.5,24,30,6
+FALSE,Wild Country,Forged Friend 1.75,green,4,99,14,Wild Country Forged Friend 1.75,25,39,14
+FALSE,Wild Country,Forged Friend 2,red,4,102,14,Wild Country Forged Friend 2,30,38,8
+FALSE,Wild Country,Forged Friend 2.5,yellow,4,116,14,Wild Country Forged Friend 2.5,36,46,10
+FALSE,Wild Country,Forged Friend 3,purple,4,147,14,Wild Country Forged Friend 3,46,56,10
+FALSE,Wild Country,Forged Friend 3.5,blue,4,167,14,Wild Country Forged Friend 3.5,53,69,16
+FALSE,Wild Country,Forged Friend 4,green,4,210,14,Wild Country Forged Friend 4,69,86,17
+FALSE,Wild Country,Old Tech Friend 00,yellow,4,57,10,Wild Country Old Tech Friend 00,11,14,3
+FALSE,Wild Country,Old Tech Friend 0,blue,4,85,14,Wild Country Old Tech Friend 0,13,17,4
+FALSE,Wild Country,Old Tech Friend .5,red,4,91,14,Wild Country Old Tech Friend .5,18,21,3
+FALSE,Wild Country,Old Tech Friend 1,yellow,4,91,14,Wild Country Old Tech Friend 1,20,24,4
+FALSE,Wild Country,Old Tech Friend 1.25,purple,4,94,14,Wild Country Old Tech Friend 1.25,22,28,6
+FALSE,Wild Country,Old Tech Friend 1.5,gray,4,94,14,Wild Country Old Tech Friend 1.5,24,30,6
+FALSE,Wild Country,Old Tech Friend 1.75,green,4,96,14,Wild Country Old Tech Friend 1.75,25,36,11
+FALSE,Wild Country,Old Tech Friend 2,red,4,108,14,Wild Country Old Tech Friend 2,30,38,8
+FALSE,Wild Country,Old Tech Friend 2.5,yellow,4,130,14,Wild Country Old Tech Friend 2.5,36,46,10
+FALSE,Wild Country,Old Tech Friend 3,purple,4,153,14,Wild Country Old Tech Friend 3,46,56,10
+FALSE,Wild Country,Old Tech Friend 3.5,blue,4,173,14,Wild Country Old Tech Friend 3.5,53,69,16
+FALSE,Wild Country,Old Tech Friend 4,green,4,218,14,Wild Country Old Tech Friend 4,69,86,17
+FALSE,Wild Country,Old Tech Friend 5,red,4,332,14,Wild Country Old Tech Friend 5,89,117,28
+FALSE,Wild Country,Old Tech Friend 6,green,4,507,14,Wild Country Old Tech Friend 6,124,163,39
+FALSE,Wired Bliss,TCU .4,Blue,3,62.37,10,Wired Bliss TCU .4,10.41,14.99,4.58
+FALSE,Wired Bliss,TCU .5,yellow,3,68.04,10,Wired Bliss TCU .5,12.7,18.54,5.84
+FALSE,Wired Bliss,TCU .75,Red,3,73.71,12,Wired Bliss TCU .75,15.24,22.61,7.37
+FALSE,Wired Bliss,TCU 1,purple,3,79.38,12,Wired Bliss TCU 1,18.8,27.43,8.63
+FALSE,Wired Bliss,TCU 2,Silver,3,85.05,12,Wired Bliss TCU 2,23.11,33.53,10.42
+FALSE,Wired Bliss,Quad 1,Purple,4,87.88,12,Wired Bliss Quad 1,18.8,27.43,8.63
+FALSE,Wired Bliss,Quad 1.5,SIlver,4,96.39,12,Wired Bliss Quad 1.5,23.11,33.53,10.42
+FALSE,Wired Bliss,Quad 2,black,4,104.89,12,Wired Bliss Quad 2,28.7,42.42,13.72
+FALSE,Wired Bliss,Quad 2.5,Green,4,121.9,12,Wired Bliss Quad 2.5,33.27,51.56,18.29
+FALSE,Wired Bliss,Quad 3,purple,4,136.08,12,Wired Bliss Quad 3,41.4,62.48,21.08
+FALSE,Wired Bliss,Quad 3.5,turquoise,4,170.1,12,Wired Bliss Quad 3.5,50.55,76.45,25.9
+FALSE,Wired Bliss,Quad 4,orange,4,201.28,12,Wired Bliss Quad 4,58.67,93.73,35.06
+TRUE,Black Diamond,Stopper 1,Red,1,7,2,Black Diamond Stopper 1,4.3,9.1,4.8
+TRUE,Black Diamond,Stopper 2,yellow,1,8,2,Black Diamond Stopper 2,4.8,9.9,5.1
+TRUE,Black Diamond,Stopper 3,blue,1,15,5,Black Diamond Stopper 3,6.1,11.4,5.3
+TRUE,Black Diamond,Stopper 4,black,1,16,6,Black Diamond Stopper 4,6.9,12.4,5.5
+TRUE,Black Diamond,Stopper 5,purple,1,18,6,Black Diamond Stopper 5,8.4,13.5,5.1
+TRUE,Black Diamond,Stopper 6,silver,1,32,10,Black Diamond Stopper 6,10.2,15.5,5.3
+TRUE,Black Diamond,Stopper 7,orange,1,34,10,Black Diamond Stopper 7,11.7,16.3,4.6
+TRUE,Black Diamond,Stopper 8,yellow,1,37,10,Black Diamond Stopper 8,13.5,18.3,4.8
+TRUE,Black Diamond,Stopper 9,blue,1,39,10,Black Diamond Stopper 9,15.2,20.8,5.6
+TRUE,Black Diamond,Stopper 10,silver,1,43,10,Black Diamond Stopper 10,17.3,23.4,6.1
+TRUE,Black Diamond,Stopper 11,purple,1,51,10,Black Diamond Stopper 11,20.1,26.7,6.6
+TRUE,Black Diamond,Stopper 12,silver,1,58,10,Black Diamond Stopper 12,22.9,30.5,7.6
+TRUE,Black Diamond,Stopper 13,orange,1,71,10,Black Diamond Stopper 13,26.4,35.1,8.7
+TRUE,Black Diamond,Micro Stopper 1,Silver,1,4,2,Black Diamond Micro Stopper 1,3.7,5.1,1.4
+TRUE,Black Diamond,Micro Stopper 2,Silver,1,7,3,Black Diamond Micro Stopper 2,4.6,6.5,1.9
+TRUE,Black Diamond,Micro Stopper 3,Silver,1,10,5,Black Diamond Micro Stopper 3,5.1,7.5,2.4
+TRUE,Black Diamond,Micro Stopper 4,Silver,1,13,6,Black Diamond Micro Stopper 4,5.9,8.4,2.5
+TRUE,Black Diamond,Micro Stopper 5,Silver,1,15,6,Black Diamond Micro Stopper 5,7.4,9.4,2
+TRUE,Black Diamond,Micro Stopper 6,Silver,1,21,8,Black Diamond Micro Stopper 6,8.8,10.4,1.6
+TRUE,Black Diamond,Offset Micro Stopper 1,Silver,1,2,2,Black Diamond Offset Micro Stopper 1,3,5.3,2.3
+TRUE,Black Diamond,Offset Micro Stopper 2,Silver,1,3,3,Black Diamond Offset Micro Stopper 2,3.4,6.5,3.1
+TRUE,Black Diamond,Offset Micro Stopper 3,Silver,1,6,5,Black Diamond Offset Micro Stopper 3,4.6,7.8,3.2
+TRUE,Black Diamond,Offset Micro Stopper 4,Silver,1,10,6,Black Diamond Offset Micro Stopper 4,5.9,9.5,3.6
+TRUE,Black Diamond,Offset Micro Stopper 5,Silver,1,11,6,Black Diamond Offset Micro Stopper 5,8,10.5,2.5
+TRUE,Black Diamond,Offset Micro Stopper 6,Silver,1,18,8,Black Diamond Offset Micro Stopper 6,9,12.5,3.5
+TRUE,Black Diamond,Wired Hexentric 1,red,1,19,6,Black Diamond Wired Hexentric 1,11.4,19,7.6
+TRUE,Black Diamond,Wired Hexentric 2,silver,1,22,6,Black Diamond Wired Hexentric 2,14.2,20.8,6.6
+TRUE,Black Diamond,Wired Hexentric 3,yellow,1,28,6,Black Diamond Wired Hexentric 3,16.8,24.4,7.6
+TRUE,Black Diamond,Wired Hexentric 4,red,1,51,10,Black Diamond Wired Hexentric 4,20.6,27.9,7.3
+TRUE,Black Diamond,Wired Hexentric 5,silver,1,53,10,Black Diamond Wired Hexentric 5,23.9,33,9.1
+TRUE,Black Diamond,Wired Hexentric 6,yellow,1,64,10,Black Diamond Wired Hexentric 6,27.2,39.1,11.9
+TRUE,Black Diamond,Wired Hexentric 7,red,1,86,10,Black Diamond Wired Hexentric 7,33,45.7,12.7
+TRUE,Black Diamond,Wired Hexentric 8,silver,1,94,10,Black Diamond Wired Hexentric 8,39.1,54.1,15
+TRUE,Black Diamond,Wired Hexentric 9,yellow,1,124,10,Black Diamond Wired Hexentric 9,47,63.7,16.7
+TRUE,Black Diamond,Wired Hexentric 10,red,1,164,10,Black Diamond Wired Hexentric 10,55.6,75.2,19.6
+TRUE,Black Diamond,Wired Hexentric 11,silver,1,206,10,Black Diamond Wired Hexentric 11,65,89.2,24.2
+TRUE,Camp,Tricam Evo .25,Black,1,17,5,Camp Tricam Evo .25,13.5,23,9.5
+TRUE,Camp,Tricam Evo .5,Pink,1,29,8,Camp Tricam Evo .5,17,27,10
+TRUE,Camp,Tricam Evo 1,Red,1,37,10,Camp Tricam Evo 1,21,32,11
+TRUE,Camp,Tricam Evo 1.5,Brown,1,57,14,Camp Tricam Evo 1.5,27,40,13
+TRUE,Camp,Tricam .125,White,1,10.5,2,Camp Tricam .125,10,16,6
+TRUE,Camp,Tricam .25,black,1,19,5,Camp Tricam .25,13.5,22,8.5
+TRUE,Camp,Tricam .5,pink,1,30,7,Camp Tricam .5,18,27,9
+TRUE,Camp,Tricam 1,red,1,37,8,Camp Tricam 1,21,32,11
+TRUE,Camp,Tricam 1.5,brown,1,55,14,Camp Tricam 1.5,26,40,14
+TRUE,Camp,Tricam 2,purple,1,57,14,Camp Tricam 2,29,45,16
+TRUE,Camp,Tricam 2.5,blue,1,77,15,Camp Tricam 2.5,32,48,16
+TRUE,Camp,Tricam 3,dark blue,1,90,11,Camp Tricam 3,38,54,16
+TRUE,Camp,Tricam 3.5,gray,1,117,18,Camp Tricam 3.5,41,60,19
+TRUE,Camp,Tricam 4,green,1,138,18,Camp Tricam 4,45,64,19
+TRUE,Camp,Tricam 5,orange,1,120,22,Camp Tricam 5,57,89,32
+TRUE,Camp,Tricam 6,yellow,1,200,18,Camp Tricam 6,73,105,32
+TRUE,Camp,Tricam 7,dark yellow,1,264,16,Camp Tricam 7,92,140,48
+TRUE,Camp,Pro Nut 1,black,1,12,4,Camp Pro Nut 1,7,13,0
+TRUE,Camp,Pro Nut 2,green,1,20,8,Camp Pro Nut 2,10,16,0
+TRUE,Camp,Pro Nut 3,light blue,1,30,10,Camp Pro Nut 3,13,20,0
+TRUE,Camp,Pro Nut 4,purple,1,37,10,Camp Pro Nut 4,15,23,0
+TRUE,Camp,Pro Nut 5,red,1,41,10,Camp Pro Nut 5,18,27,0
+TRUE,Camp,Pro Nut 6,silver,1,47,10,Camp Pro Nut 6,20,29,0
+TRUE,Camp,Pro Nut 7,blue,1,55,10,Camp Pro Nut 7,23,33,0
+FALSE,Camp,Wired Carvex 1,,1,25,10,Camp Wired Carvex 1,11,18,7
+FALSE,Camp,Wired Carvex 2,,1,28,10,Camp Wired Carvex 2,13,21,8
+FALSE,Camp,Wired Carvex 3,,1,30,10,Camp Wired Carvex 3,16,24,8
+FALSE,Camp,Wired Carvex 4,Yellow,1,35,10,Camp Wired Carvex 4,22,29,7
+FALSE,Camp,Wired Carvex 5,red,1,47,10,Camp Wired Carvex 5,26,34,8
+FALSE,Camp,Wired Carvex 6,gray,1,57,10,Camp Wired Carvex 6,31,40,9
+FALSE,Camp,Wired Carvex 7,blue,1,72,10,Camp Wired Carvex 7,38,48,10
+FALSE,Camp,Wired Carvex 8,orange,1,96,10,Camp Wired Carvex 8,44,56,12
+FALSE,Camp,Wired Carvex 9,purple,1,128,10,Camp Wired Carvex 9,54,66,12
+FALSE,Camp,Wired Carvex 10,Brown,1,176,10,Camp Wired Carvex 10,64,79,15
+FALSE,Camp,Wired Carvex 11,Silver,1,236,10,Camp Wired Carvex 11,75,91,16
+FALSE,Camp,Dyneema Carvex 4,Yellow,1,24,10,Camp Dyneema Carvex 4,22,29,7
+FALSE,Camp,Dyneema Carvex 5,red,1,32,15,Camp Dyneema Carvex 5,26,34,8
+FALSE,Camp,Dyneema Carvex 6,gray,1,42,17,Camp Dyneema Carvex 6,31,40,9
+FALSE,Camp,Dyneema Carvex 7,blue,1,58,17,Camp Dyneema Carvex 7,38,48,10
+FALSE,Camp,Dyneema Carvex 8,orange,1,86,17,Camp Dyneema Carvex 8,44,56,12
+FALSE,Camp,Dyneema Carvex 9,purple,1,124,17,Camp Dyneema Carvex 9,54,66,12
+FALSE,Camp,Dyneema Carvex 10,Brown,1,165,17,Camp Dyneema Carvex 10,64,79,15
+FALSE,Camp,Dyneema Carvex 11,Silver,1,226,17,Camp Dyneema Carvex 11,75,91,16
+TRUE,DMM,Wallnut 1,purple,1,15,7,DMM Wallnut 1,6.7,14.3,7.6
+TRUE,DMM,Wallnut 2,green,1,26,7,DMM Wallnut 2,8.1,15.8,7.7
+TRUE,DMM,Wallnut 3,silver,1,28,11,DMM Wallnut 3,9.4,16.5,7.1
+TRUE,DMM,Wallnut 4,gold,1,30,12,DMM Wallnut 4,11,17.6,6.6
+TRUE,DMM,Wallnut 5,blue,1,32,12,DMM Wallnut 5,13.2,19.4,6.2
+TRUE,DMM,Wallnut 6,red,1,39,12,DMM Wallnut 6,15.6,22.6,7
+TRUE,DMM,Wallnut 7,gray,1,40,12,DMM Wallnut 7,18.9,25.8,6.9
+TRUE,DMM,Wallnut 8,turquoise,1,45,12,DMM Wallnut 8,22.3,29,6.7
+TRUE,DMM,Wallnut 9,gold,1,50,12,DMM Wallnut 9,25.2,32.1,6.9
+TRUE,DMM,Wallnut 10,silver,1,56,12,DMM Wallnut 10,28.8,32.6,3.8
+TRUE,DMM,Wallnut 11,green,1,68,12,DMM Wallnut 11,33.1,37.4,4.3
+TRUE,DMM,Alloy Offset 7,Yellow,1,27,12,DMM Alloy Offset 7,12,15.1,3.1
+TRUE,DMM,Alloy Offset 8,blue,1,30,12,DMM Alloy Offset 8,13.5,17.9,4.4
+TRUE,DMM,Alloy Offset 9,red,1,37,12,DMM Alloy Offset 9,17.1,21.4,4.3
+TRUE,DMM,Alloy Offset 10,gray,1,45,12,DMM Alloy Offset 10,19.4,25.1,5.7
+TRUE,DMM,Alloy Offset 11,turquoise,1,56,12,DMM Alloy Offset 11,23.2,30,6.8
+TRUE,DMM,Torque Nut 1,turquoise,1,54,14,DMM Torque Nut 1,31,41,10
+TRUE,DMM,Torque Nut 2,red,1,70,14,DMM Torque Nut 2,36,49,13
+TRUE,DMM,Torque Nut 3,gold,1,104,14,DMM Torque Nut 3,44,59,15
+TRUE,DMM,Torque Nut 4,blue,1,145,14,DMM Torque Nut 4,54,71,17
+FALSE,DMM,Old Offset 1,,1,,2,DMM Old Offset 1,3.7,5.5,1.8
+FALSE,DMM,Old Offset 2,,1,,4,DMM Old Offset 2,4.3,6.5,2.2
+FALSE,DMM,Old Offset 3,,1,,5,DMM Old Offset 3,5.6,7.5,1.9
+FALSE,DMM,Old Offset 4,,1,,5,DMM Old Offset 4,6,8.5,2.5
+FALSE,DMM,Old Offset 5,,1,,7,DMM Old Offset 5,7.5,10.2,2.7
+FALSE,DMM,Old Offset 6,,1,,7,DMM Old Offset 6,9.8,13.9,4.1
+FALSE,DMM,HB Offset 7,blue,1,,10,DMM HB Offset 7,12,15.1,3.1
+FALSE,DMM,HB Offset 8,red,1,,12,DMM HB Offset 8,13.5,17.9,4.4
+FALSE,DMM,HB Offset 9,orange,1,,12,DMM HB Offset 9,17.1,21.4,4.3
+FALSE,DMM,HB Offset 10,yellow,1,,12,DMM HB Offset 10,19.4,25.1,5.7
+FALSE,DMM,HB Offset 11,green,1,,12,DMM HB Offset 11,23.2,30,6.8
+TRUE,DMM,Brass Imp 1,Blue,1,4,4,DMM Brass Imp 1,4,5.6,1.6
+TRUE,DMM,Brass Imp 2,red,1,8,5,DMM Brass Imp 2,4.8,6.4,1.6
+TRUE,DMM,Brass Imp 3,gray,1,10,5,DMM Brass Imp 3,6.4,7.9,1.5
+TRUE,DMM,Brass Imp 4,purple,1,13,7,DMM Brass Imp 4,7.9,9.5,1.6
+TRUE,DMM,Brass Imp 5,green,1,16,7,DMM Brass Imp 5,9.5,11.1,1.6
+FALSE,DMM,Micro Wallnut 00,Gold,1,6,2,DMM Micro Wallnut 00,4,9.7,5.7
+FALSE,DMM,Micro Wallnut 00,Blue,1,6,2,DMM Micro Wallnut 00,4.6,10.8,6.2
+FALSE,DMM,Micro Wallnut .5,Red,1,9,4,DMM Micro Wallnut .5,5.1,11.7,6.6
+FALSE,DMM,Micro Wallnut .75,Gray,1,10,6,DMM Micro Wallnut .75,5.9,12.6,6.7
+TRUE,DMM,Peenut 1,red,1,9,4,DMM Peenut 1,6.5,11.5,5
+TRUE,DMM,Peenut 2,gray,1,10,5,DMM Peenut 2,6.8,12.1,5.3
+TRUE,DMM,Peenut 3,purple,1,10,5,DMM Peenut 3,7.8,12.7,4.9
+TRUE,DMM,Peenut 4,green,1,16,8,DMM Peenut 4,8.9,13.2,4.3
+TRUE,DMM,Peenut 5,silver,1,18,8,DMM Peenut 5,9.2,13.9,4.7
+TRUE,Kouba,Abalak 1,silver,1,20,6,Kouba Abalak 1,18,21,3
+TRUE,Kouba,Abalak 2,yellow,1,20,6,Kouba Abalak 2,19,26,7
+TRUE,Kouba,Abalak 3,orange,1,40,10,Kouba Abalak 3,21,32,11
+TRUE,Kouba,Abalak 4,green,1,50,10,Kouba Abalak 4,24,42,18
+TRUE,Kouba,Abalak 5,blue,1,80,14,Kouba Abalak 5,27,53.5,26.5
+TRUE,Kouba,Abalak 6,red,1,110,14,Kouba Abalak 6,31,63.5,32.5
+TRUE,Kouba,Alu Nut 1,yellow,1,24,,Kouba Alu Nut 1,10,12,2
+TRUE,Kouba,Alu Nut 2,orange,1,25,,Kouba Alu Nut 2,11,13,2
+TRUE,Kouba,Alu Nut 3,green,1,26,,Kouba Alu Nut 3,12,13.5,1.5
+TRUE,Kouba,Alu Nut 4,blue,1,27,10,Kouba Alu Nut 4,13.5,15,1.5
+TRUE,Kouba,Alu Nut 5,gray,1,29,10,Kouba Alu Nut 5,15,17,2
+TRUE,Kouba,Alu Nut 6,red,1,32,10,Kouba Alu Nut 6,17,18,1
+TRUE,Kouba,Alu Nut 7,brown,1,36,10,Kouba Alu Nut 7,19,20,1
+TRUE,Kouba,Alu Nut 8,purple,1,43,12,Kouba Alu Nut 8,21,22.5,1.5
+TRUE,Kouba,Alu Nut 9,black,1,50,12,Kouba Alu Nut 9,23,24,1
+TRUE,Kouba,Duo 1,yellow,1,15,,Kouba Duo 1,6,10.5,4.5
+TRUE,Kouba,Duo 2,green,1,16,,Kouba Duo 2,6.8,11.5,4.7
+TRUE,Kouba,Duo 3,orange,1,17,,Kouba Duo 3,7.8,12.5,4.7
+TRUE,Kouba,Duo 4,blue,1,23,,Kouba Duo 4,8.7,13.5,4.8
+TRUE,Kouba,Duo 5,red,1,25,,Kouba Duo 5,9.8,14.5,4.7
+TRUE,Kouba,Duo 6,brown,1,28,,Kouba Duo 6,10.6,15,4.4
+TRUE,Kouba,Hex 1,silver,1,30,,Kouba Hex 1,13,19,6
+TRUE,Kouba,Hex 2,yellow,1,30,,Kouba Hex 2,16,22,6
+TRUE,Kouba,Hex 3,orange,1,40,,Kouba Hex 3,19.5,27.5,8
+TRUE,Kouba,Hex 4,green,1,40,,Kouba Hex 4,23.5,32,8.5
+TRUE,Kouba,Hex 5,blue,1,70,12,Kouba Hex 5,30,38,8
+TRUE,Kouba,Hex 6,red,1,90,12,Kouba Hex 6,35.5,44.5,9
+TRUE,Kouba,Horn 1,silver,1,26,,Kouba Horn 1,10,18,8
+TRUE,Kouba,Horn 2,yellow,1,33,,Kouba Horn 2,11.5,22,10.5
+TRUE,Kouba,Horn 3,orange,1,42,10,Kouba Horn 3,15.5,24.5,9
+TRUE,Kouba,Horn 4,green,1,48,,Kouba Horn 4,22,27,5
+TRUE,Kouba,Horn 5,blue,1,80,,Kouba Horn 5,26,30,4
+TRUE,Kouba,Horn 6,red,1,92,12,Kouba Horn 6,29.5,31.5,2
+TRUE,Kouba,Horn 7,brown,1,113,12,Kouba Horn 7,35.5,35.5,0
+TRUE,Kouba,Vector 1,gold,1,26,,Kouba Vector 1,11,14.6,3.6
+TRUE,Kouba,Vector 2,blue,1,28,10,Kouba Vector 2,13.6,17.2,3.6
+TRUE,Kouba,Vector 3,red,1,32,,Kouba Vector 3,15.6,19.4,3.8
+TRUE,Kouba,Vector 4,purple,1,40,,Kouba Vector 4,19.5,24.3,4.8
+TRUE,Kouba,Vector 5,black,1,52,12,Kouba Vector 5,24.3,29,4.7
+TRUE,Kouba,Top 1,silver,1,20,,Kouba Top 1,6,12,6
+TRUE,Kouba,Top 2,yellow,1,20,,Kouba Top 2,7.5,12,4.5
+TRUE,Kouba,Top 3,orange,1,20,,Kouba Top 3,9,13.5,4.5
+TRUE,Kouba,Top 4,green,1,20,,Kouba Top 4,10.5,15.5,5
+TRUE,Kouba,Top 5,blue,1,30,,Kouba Top 5,12,19.5,7.5
+TRUE,Kouba,Top 6,red,1,40,,Kouba Top 6,14.5,24.5,10
+TRUE,Kouba,Top 7,brown,1,50,,Kouba Top 7,19,29,10
+TRUE,Kouba,Rox 1,silver,1,20,,Kouba Rox 1,6,11.5,5.5
+TRUE,Kouba,Rox 2,yellow,1,20,,Kouba Rox 2,7,11.5,4.5
+TRUE,Kouba,Rox 3,orange,1,20,,Kouba Rox 3,9,13.5,4.5
+TRUE,Kouba,Rox 4,green,1,30,,Kouba Rox 4,10.5,15.5,5
+TRUE,Kouba,Rox 5,blue,1,30,10,Kouba Rox 5,13,16,3
+TRUE,Kouba,Rox 6,red,1,30,10,Kouba Rox 6,15,20,5
+TRUE,Kouba,Rox 7,brown,1,40,10,Kouba Rox 7,18,24.5,6.5
+TRUE,Kouba,Mosaz 1,silver,1,17,6,Kouba Mosaz 1,5,9,4
+TRUE,Kouba,Mosaz 2,yellow,1,18,6,Kouba Mosaz 2,6,10,4
+TRUE,Kouba,Mosaz 3,orange,1,19,7,Kouba Mosaz 3,7,11,4
+TRUE,Kouba,Mosaz 4,green,1,26,,Kouba Mosaz 4,8,12,4
+TRUE,Kouba,Mosaz 5,blue,1,28,,Kouba Mosaz 5,8.8,13,4.2
+TRUE,Kouba,Mosaz 6,red,1,30,,Kouba Mosaz 6,9.5,13.8,4.3
+TRUE,Kouba,Mosaz 7,brown,1,34,,Kouba Mosaz 7,11.8,14.8,3
+TRUE,Kouba,Mosaz 8,black,1,38,,Kouba Mosaz 8,13.8,15.5,1.7
+TRUE,Kouba,Granite 1,yellow,1,17,6,Kouba Granite 1,7.5,11,3.5
+TRUE,Kouba,Granite 2,orange,1,24,6,Kouba Granite 2,8.5,12.8,4.3
+TRUE,Kouba,Granite 3,green,1,25,6,Kouba Granite 3,9.8,13.8,4
+TRUE,Kouba,Granite 4,blue,1,26,8,Kouba Granite 4,11,14.8,3.8
+TRUE,Kouba,Granite 5,purple,1,28,8,Kouba Granite 5,12.5,15.8,3.3
+TRUE,Kouba,Granite 6,red,1,31,10,Kouba Granite 6,16,19.5,3.5
+TRUE,Kouba,Granite 7,brown,1,33,10,Kouba Granite 7,18.5,22.5,4
+TRUE,Kouba,Granite 8,purple,1,36,12,Kouba Granite 8,21.5,22.5,1
+TRUE,Kouba,Granite 9,silver,1,41,12,Kouba Granite 9,21.5,24.5,3
+TRUE,Kouba,Granite 10,orange,1,50,12,Kouba Granite 10,24.5,27.5,3
+TRUE,Kouba,Granite 11,light yellow,1,57,12,Kouba Granite 11,27.5,29.5,2
+TRUE,Kouba,Anodized Alu 1,light yellow,1,24,,Kouba Anodized Alu 1,10,12,2
+TRUE,Kouba,Anodized Alu 2,yellow,1,25,,Kouba Anodized Alu 2,11,13,2
+TRUE,Kouba,Anodized Alu 3,green,1,26,,Kouba Anodized Alu 3,12,13.5,1.5
+TRUE,Kouba,Anodized Alu 4,turquoise,1,27,10,Kouba Anodized Alu 4,13.5,15,1.5
+TRUE,Kouba,Anodized Alu 5,blue,1,29,10,Kouba Anodized Alu 5,15,17,2
+TRUE,Kouba,Anodized Alu 6,red,1,32,10,Kouba Anodized Alu 6,17,18,1
+TRUE,Kouba,Anodized Alu 7,silver,1,36,10,Kouba Anodized Alu 7,19,20,1
+TRUE,Kouba,Anodized Alu 8,purple,1,43,12,Kouba Anodized Alu 8,21,22.5,1.5
+TRUE,Kouba,Anodized Alu 9,black,1,50,12,Kouba Anodized Alu 9,23,24,1
+TRUE,Kouba,Anodized Hex 1,silver,1,30,,Kouba Anodized Hex 1,13,19,6
+TRUE,Kouba,Anodized Hex 2,light yellow,1,30,,Kouba Anodized Hex 2,16,22,6
+TRUE,Kouba,Anodized Hex 3,gold,1,40,,Kouba Anodized Hex 3,19.5,27.5,8
+TRUE,Kouba,Anodized Hex 4,green,1,40,,Kouba Anodized Hex 4,23.5,32,8.5
+TRUE,Kouba,Anodized Hex 5,blue,1,70,12,Kouba Anodized Hex 5,30,38,8
+TRUE,Kouba,Anodized Hex 6,red,1,90,12,Kouba Anodized Hex 6,35.5,44.5,9
+TRUE,Omega Pacific,Wedgie 1,silver,1,7.09,2,Omega Pacific Wedgie 1,3.56,9.91,6.35
+TRUE,Omega Pacific,Wedgie 2,black,1,7.94,2,Omega Pacific Wedgie 2,4.06,9.91,5.85
+TRUE,Omega Pacific,Wedgie 3,red,1,15.03,5,Omega Pacific Wedgie 3,5.84,10.92,5.08
+TRUE,Omega Pacific,Wedgie 4,purple,1,15.88,6,Omega Pacific Wedgie 4,6.85,11.18,4.33
+TRUE,Omega Pacific,Wedgie 5,dark gray,1,18.14,6,Omega Pacific Wedgie 5,8.38,13.51,5.13
+TRUE,Omega Pacific,Wedgie 6,red,1,36.85,10,Omega Pacific Wedgie 6,9.66,14.18,4.52
+TRUE,Omega Pacific,Wedgie 7,blue,1,34.02,10,Omega Pacific Wedgie 7,11.18,15.49,4.31
+TRUE,Omega Pacific,Wedgie 8,silver,1,36.85,10,Omega Pacific Wedgie 8,13.21,17.27,4.06
+TRUE,Omega Pacific,Wedgie 9,yellow,1,36.85,10,Omega Pacific Wedgie 9,15.24,20.32,5.08
+TRUE,Omega Pacific,Wedgie 10,green,1,42.52,10,Omega Pacific Wedgie 10,17.27,22.35,5.08
+TRUE,Omega Pacific,Wedgie 11,red,1,51.03,10,Omega Pacific Wedgie 11,19.81,25.65,5.84
+TRUE,Omega Pacific,Wedgie 12,blue,1,56.7,10,Omega Pacific Wedgie 12,22.85,29.72,6.87
+TRUE,Omega Pacific,Wedgie 13,turquoise,1,70.87,10,Omega Pacific Wedgie 13,26.42,33.76,7.34
+TRUE,Metolius,Astro Nut 1,gray,1,5.7,1.4,Metolius Astro Nut 1,3.1,6.1,3
+TRUE,Metolius,Astro Nut 2,blue,1,6,1.4,Metolius Astro Nut 2,3.5,6.1,2.6
+TRUE,Metolius,Astro Nut 3,gold,1,6.2,2.5,Metolius Astro Nut 3,4.1,6.1,2
+TRUE,Metolius,Astro Nut 4,red,1,6.5,2.5,Metolius Astro Nut 4,4.6,6.5,1.9
+TRUE,Metolius,Astro Nut 5,black,1,7,2.5,Metolius Astro Nut 5,5.3,7.4,2.1
+TRUE,Metolius,Astro Nut 6,gray,1,11,6,Metolius Astro Nut 6,5.9,8.1,2.2
+TRUE,Metolius,Astro Nut 7,blue,1,13.9,6,Metolius Astro Nut 7,6.9,9.4,2.5
+TRUE,Metolius,Astro Nut 8,gold,1,16.2,6,Metolius Astro Nut 8,8.1,10.6,2.5
+TRUE,Metolius,Astro Nut 9,red,1,21.8,8,Metolius Astro Nut 9,9.4,12.4,3
+TRUE,Metolius,Astro Nut 10,black,1,26.9,8,Metolius Astro Nut 10,10.6,13.9,3.3
+TRUE,Metolius,UL Curve Nut 1,blue,1,19,7,Metolius UL Curve Nut 1,9.1,13.2,4.1
+TRUE,Metolius,UL Curve Nut 2,yellow,1,19,7,Metolius UL Curve Nut 2,10.2,13.7,3.5
+TRUE,Metolius,UL Curve Nut 3,orange,1,19,7,Metolius UL Curve Nut 3,11.4,14.2,2.8
+TRUE,Metolius,UL Curve Nut 4,red,1,22,7,Metolius UL Curve Nut 4,121.7,16,-105.7
+TRUE,Metolius,UL Curve Nut 5,black,1,22,7,Metolius UL Curve Nut 5,14.2,17.8,3.6
+TRUE,Metolius,UL Curve Nut 6,green,1,34,10,Metolius UL Curve Nut 6,16,19.8,3.8
+TRUE,Metolius,UL Curve Nut 7,light blue,1,36,10,Metolius UL Curve Nut 7,17.8,22.4,4.6
+TRUE,Metolius,UL Curve Nut 8,light purple,1,42,10,Metolius UL Curve Nut 8,20.1,24.9,4.8
+TRUE,Metolius,UL Curve Nut 9,purple,1,45,10,Metolius UL Curve Nut 9,22.4,27.9,5.5
+TRUE,Metolius,UL Curve Nut 10,dark blue,1,53,10,Metolius UL Curve Nut 10,24.9,30.5,5.6
+TRUE,Metolius,UL Hex 5,black,1,48,10,Metolius UL Hex 5,21.6,27.9,6.3
+TRUE,Metolius,UL Hex 6,green,1,54,10,Metolius UL Hex 6,26.7,33,6.3
+TRUE,Metolius,UL Hex 7,light blue,1,70,10,Metolius UL Hex 7,31.8,42.2,10.4
+TRUE,Metolius,UL Hex 8,light purple,1,94,10,Metolius UL Hex 8,39.9,51.3,11.4
+TRUE,Metolius,UL Hex 9,Maroon,1,127,10,Metolius UL Hex 9,49,66,17
+TRUE,Metolius,UL Hex 10,dark blue,1,156,10,Metolius UL Hex 10,53.9,74.2,20.3
+FALSE,Metolius,Curve Nut 1,blue,1,19.84,7,Metolius Curve Nut 1,9.14,13.21,4.06
+FALSE,Metolius,Curve Nut 2,yellow,1,19.84,7,Metolius Curve Nut 2,10.16,13.72,3.56
+FALSE,Metolius,Curve Nut 3,orange,1,19.84,7,Metolius Curve Nut 3,11.43,14.22,2.79
+FALSE,Metolius,Curve Nut 4,red,1,22.68,7,Metolius Curve Nut 4,12.7,16,3.3
+FALSE,Metolius,Curve Nut 5,black,1,22.68,7,Metolius Curve Nut 5,14.22,17.78,3.56
+FALSE,Metolius,Curve Nut 6,green,1,34.02,10,Metolius Curve Nut 6,16,19.81,3.81
+FALSE,Metolius,Curve Nut 7,light blue,1,36.85,10,Metolius Curve Nut 7,17.78,22.35,4.57
+FALSE,Metolius,Curve Nut 8,light purple,1,42.52,10,Metolius Curve Nut 8,20.07,24.89,4.83
+FALSE,Metolius,Curve Nut 9,Maroon,1,45.36,10,Metolius Curve Nut 9,22.35,27.94,5.59
+FALSE,Metolius,Curve Nut 10,dark blue,1,53.86,10,Metolius Curve Nut 10,24.89,30.48,5.59
+FALSE,Metolius,Curve Hex 1,blue,1,19.84,6,Metolius Curve Hex 1,10.67,15.49,4.83
+FALSE,Metolius,Curve Hex 2,yellow,1,22.68,6,Metolius Curve Hex 2,11.68,17.02,5.33
+FALSE,Metolius,Curve Hex 3,orange,1,39.69,10,Metolius Curve Hex 3,13.97,20.07,6.1
+FALSE,Metolius,Curve Hex 4,red,1,48.19,10,Metolius Curve Hex 4,16.51,22.86,6.35
+FALSE,Metolius,Curve Hex 5,black,1,51.03,10,Metolius Curve Hex 5,21.59,27.94,6.35
+FALSE,Metolius,Curve Hex 6,green,1,59.53,10,Metolius Curve Hex 6,26.67,33.02,6.35
+FALSE,Metolius,Curve Hex 7,light blue,1,73.71,10,Metolius Curve Hex 7,31.75,42.16,10.41
+FALSE,Metolius,Curve Hex 8,light purple,1,99.22,10,Metolius Curve Hex 8,39.88,51.31,11.43
+FALSE,Metolius,Curve Hex 9,Maroon,1,133.24,10,Metolius Curve Hex 9,49.02,66.04,17.02
+FALSE,Metolius,Curve Hex 10,dark blue,1,170.1,10,Metolius Curve Hex 10,53.85,74.17,20.32
+FALSE,Metolius,Alpine Hex 6,light blue,1,59.53,10,Metolius Alpine Hex 6,26.67,33.02,6.35
+FALSE,Metolius,Alpine Hex 7,red,1,73.71,10,Metolius Alpine Hex 7,31.75,42.16,10.41
+FALSE,Metolius,Alpine Hex 8,green,1,99.22,10,Metolius Alpine Hex 8,39.88,51.31,11.43
+FALSE,Metolius,Alpine Hex 9,brown,1,133.24,10,Metolius Alpine Hex 9,49.02,66.04,17.02
+FALSE,Metolius,Alpine Hex 10,blue,1,170.1,10,Metolius Alpine Hex 10,53.85,74.17,20.32
+TRUE,Trango,Big Bro 1,Red,1,154,12,Trango Big Bro 1,81,109,28
+TRUE,Trango,Big Bro 2,purple,1,190,12,Trango Big Bro 2,101,145,44
+TRUE,Trango,Big Bro 3,green,1,235,12,Trango Big Bro 3,135,203,68
+TRUE,Trango,Big Bro 4,blue,1,338,12,Trango Big Bro 4,191,305,114
+TRUE,Trango,Chockstone 1,silver,1,5,2,Trango Chockstone 1,3.8,9.9,6.1
+TRUE,Trango,Chockstone 2,orange,1,6,2,Trango Chockstone 2,4.7,10.8,6.1
+TRUE,Trango,Chockstone 3,silver,1,15,4,Trango Chockstone 3,5.9,12.1,6.2
+TRUE,Trango,Chockstone 4,orange,1,16,6,Trango Chockstone 4,7.6,13.2,5.6
+TRUE,Trango,Chockstone 5,silver,1,26,8,Trango Chockstone 5,9.3,14.4,5.1
+TRUE,Trango,Chockstone 6,orange,1,27,12,Trango Chockstone 6,11.1,16.5,5.4
+TRUE,Trango,Chockstone 7,silver,1,32,12,Trango Chockstone 7,13.3,18.9,5.6
+TRUE,Trango,Chockstone 8,orange,1,35,12,Trango Chockstone 8,15.9,21.4,5.5
+TRUE,Trango,Chockstone 9,silver,1,43,12,Trango Chockstone 9,19.1,28.1,9
+TRUE,Trango,Chockstone 10,orange,1,51,12,Trango Chockstone 10,22,31.6,9.6
+TRUE,Trango,Chockstone 11,silver,1,63,12,Trango Chockstone 11,25.3,36.1,10.8
+TRUE,Wild Country,Superlight Rock 1,pink,1,10,4,Wild Country Superlight Rock 1,7.25,7,-0.25
+TRUE,Wild Country,Superlight Rock 2,green,1,13,6,Wild Country Superlight Rock 2,8,8.2,0.2
+TRUE,Wild Country,Superlight Rock 3,silver,1,15,6,Wild Country Superlight Rock 3,9,9.6,0.6
+TRUE,Wild Country,Superlight Rock 4,gold,1,16,6,Wild Country Superlight Rock 4,10,11.3,1.3
+TRUE,Wild Country,Superlight Rock 5,blue,1,21,6,Wild Country Superlight Rock 5,11.5,13.3,1.8
+TRUE,Wild Country,Superlight Rock 6,red,1,22,6,Wild Country Superlight Rock 6,13,15.6,2.6
+TRUE,Wild Country,SL Offset Rock 5,blue,1,20.8,7,Wild Country SL Offset Rock 5,6,12.5,6.5
+TRUE,Wild Country,SL Offset Rock 6,red,1,23.9,7,Wild Country SL Offset Rock 6,7,14.5,7.5
+TRUE,Wild Country,SL Offset Rock 7,silver,1,23.9,7,Wild Country SL Offset Rock 7,7,16,9
+TRUE,Wild Country,SL Offset Rock 8,turquoise,1,27,7,Wild Country SL Offset Rock 8,8,18,10
+TRUE,Wild Country,SL Offset Rock 9,yellow,1,30.9,7,Wild Country SL Offset Rock 9,9.5,20.5,11
+TRUE,Wild Country,SL Offset Rock 10,silver,1,36.4,9,Wild Country SL Offset Rock 10,10,23,13
+TRUE,Wild Country,Anodized Rock 1,purple,1,16,,Wild Country Anodized Rock 1,7,13,6
+TRUE,Wild Country,Anodized Rock 2,green,1,25,,Wild Country Anodized Rock 2,8.2,13.8,5.6
+TRUE,Wild Country,Anodized Rock 3,silver,1,28,,Wild Country Anodized Rock 3,9.6,14.5,4.9
+TRUE,Wild Country,Anodized Rock 4,gold,1,30,,Wild Country Anodized Rock 4,11.3,15.3,4
+TRUE,Wild Country,Anodized Rock 5,blue,1,32,10,Wild Country Anodized Rock 5,13.3,16.8,3.5
+TRUE,Wild Country,Anodized Rock 6,red,1,36,10,Wild Country Anodized Rock 6,15.6,19,3.4
+TRUE,Wild Country,Anodized Rock 7,silver,1,38,10,Wild Country Anodized Rock 7,18.4,21.2,2.8
+TRUE,Wild Country,Anodized Rock 8,turquoise,1,41,10,Wild Country Anodized Rock 8,21.6,24,2.4
+TRUE,Wild Country,Anodized Rock 9,yellow,1,49,10,Wild Country Anodized Rock 9,24.4,27.7,3.3
+TRUE,Wild Country,Anodized Rock 10,silver,1,60,10,Wild Country Anodized Rock 10,30,31,1
+TRUE,Wild Country,Anodized Rock 11,green,1,70,10,Wild Country Anodized Rock 11,34,35,1
+TRUE,Wild Country,Anodized Rock 12,red,1,81,10,Wild Country Anodized Rock 12,38,38,0
+TRUE,Wild Country,Anodized Rock 13,gold,1,94,10,Wild Country Anodized Rock 13,41,44,3
+TRUE,Wild Country,Anodized Rock 14,blue,1,109,10,Wild Country Anodized Rock 14,47,50,3
+TRUE,Wild Country,Rockcentric 3,gold,1,33,14,Wild Country Rockcentric 3,24,31,7
+TRUE,Wild Country,Rockcentric 4,silver,1,41,14,Wild Country Rockcentric 4,28,36,8
+TRUE,Wild Country,Rockcentric 5,green,1,53,14,Wild Country Rockcentric 5,33,41.5,8.5
+TRUE,Wild Country,Rockcentric 6,red,1,67,14,Wild Country Rockcentric 6,38.5,48,9.5
+TRUE,Wild Country,Rockcentric 7,gold,1,88,14,Wild Country Rockcentric 7,45,55.5,10.5
+TRUE,Wild Country,Rockcentric 8,blue,1,115,14,Wild Country Rockcentric 8,52.5,64.4,11.9
+TRUE,Wild Country,Rockcentric 9,purple,1,149,14,Wild Country Rockcentric 9,61,73.5,12.5
+TRUE,Wild Country,Classic Rock 1,Purple,1,16,6,Wild Country Classic Rock 1,7,13,6
+TRUE,Wild Country,Classic Rock 2,green,1,25,10,Wild Country Classic Rock 2,8.2,13.8,5.6
+TRUE,Wild Country,Classic Rock 3,silver,1,28,10,Wild Country Classic Rock 3,9.6,14.5,4.9
+TRUE,Wild Country,Classic Rock 4,gold,1,30,10,Wild Country Classic Rock 4,11.3,15.3,4
+TRUE,Wild Country,Classic Rock 5,blue,1,32,10,Wild Country Classic Rock 5,13.3,16.8,3.5
+TRUE,Wild Country,Classic Rock 6,red,1,36,10,Wild Country Classic Rock 6,15.6,19,3.4
+TRUE,Wild Country,Classic Rock 7,silver,1,38,10,Wild Country Classic Rock 7,18.4,21.2,2.8
+TRUE,Wild Country,Classic Rock 8,turquoise,1,47,12,Wild Country Classic Rock 8,21.6,24,2.4
+TRUE,Wild Country,Classic Rock 9,gold,1,60,12,Wild Country Classic Rock 9,24.4,27.7,3.3
+TRUE,Wild Country,Classic Rock 10,silver,1,71,12,Wild Country Classic Rock 10,30,31,1
+FALSE,Wild Country,Classic Rock 11,green,1,70,10,Wild Country Classic Rock 11,34,35,1
+FALSE,Wild Country,Classic Rock 12,red,1,81,10,Wild Country Classic Rock 12,38,38,0
+FALSE,Wild Country,Classic Rock 13,gold,1,94,10,Wild Country Classic Rock 13,41,44,3
+FALSE,Wild Country,Classic Rock 14,blue,1,109,10,Wild Country Classic Rock 14,45,50,5
+FALSE,Wild Country,Mini Rock 0,Gold,1,6,2,Wild Country Mini Rock 0,4.4,9.6,5.2
+FALSE,Wild Country,Mini Rock .25,blue,1,6,2,Wild Country Mini Rock .25,4.9,10.6,5.7
+FALSE,Wild Country,Mini Rock .5,red,1,10,,Wild Country Mini Rock .5,5.6,11.6,6
+FALSE,Wild Country,Mini Rock .75,silver,1,10,,Wild Country Mini Rock .75,6.9,12.1,5.2
